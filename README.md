@@ -13,5 +13,6 @@ Click the "Fork" icon in the top right to fork the repository.
 
 Name the folder like this, replacing spaces with '-'. 
 `text-adventure-game`
+Format the file name the same way too:
+`text-adventure-game.py` (This is just an example, it doesn't have to be python - use any language you want!)
 
-Feel free to write it in any coding language you desire.
