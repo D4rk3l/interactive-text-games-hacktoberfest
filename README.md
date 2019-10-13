@@ -27,7 +27,7 @@ This is just an example, it doesn't have to be python - use any language you wan
 
 Open the folder of whichever text game you'd like to edit.
 
-Copy the game inside and paste it, adding 
+Make changes
 
 ### Step 3: Commit your changes and submit a pull request
 
