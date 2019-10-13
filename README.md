@@ -1,4 +1,4 @@
-# text-adventure
+# Hacktoberfest 2019 Text Adventure Games
 A place to submit your own (or edit other peoples') text adventure games in any language!
 
 You can submit whatever you want as long as it's some kind of interactive text adventure game.
