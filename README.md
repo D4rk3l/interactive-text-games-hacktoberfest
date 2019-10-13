@@ -5,9 +5,13 @@ You can submit whatever you want as long as it's some kind of interactive text a
 Feel free to edit and add on to other people's code too!
 
 ## How to Contribute
+
+
 ### Step 1: Fork the repository
 
 Click the "Fork" icon in the top right to fork the repository.
+
+
 
 ### Step 2: Upload/edit your text adventure game
 
@@ -38,6 +42,8 @@ If you're editing a version that has already been edited, add the sub-version nu
 `other-adventure-game-v2-2.py`
 
 Once you've edited or added what you want, move on to the next step.
+
+
 
 ### Step 3: Commit your changes and submit a pull request
 
