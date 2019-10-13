@@ -9,25 +9,27 @@ Feel free to edit and add on to other people's code too!
 
 Click the "Fork" icon in the top right to fork the repository.
 
-### Step 2: Make a folder in the repository and upload your text adventure game to it
+### Step 2: Upload/edit your text adventure game
 
 #### FOR ADDING YOUR OWN GAME, FOLLOW THESE INSTRUCTIONS:
 
+Make a folder in the forked repository.
 Name the folder like this, replacing spaces with '-'.
 
 `text-adventure-game`
 
-Format the file name the same way too:
+Place your text adventure game inside the folder, and format the file name the same way too:
 
 `text-adventure-game.py` 
 
 This is just an example, it doesn't have to be python - use any language you want!
 
+
 #### FOR EDITING SOMEBODY ELSE'S GAME, FOLLOW THESE INSTRUCTIONS:
 
 Open the folder of whichever text game you'd like to edit.
 
-Copy and paste the game inside so that there are two of them and add the version number at the end of the one you're editing:
+Copy and paste the game inside so that there are two copies of them and add the version number at the end of the one you're editing:
 
 `other-adventure-game-v2.py`
 
@@ -35,7 +37,7 @@ If you're editing a version that has already been edited, add the sub-version nu
 
 `other-adventure-game-v2-2.py`
 
-Once you've edited or added on to somebody else's code, move on to step 3.
+Once you've edited or added what you want, move on to the next step.
 
 ### Step 3: Commit your changes and submit a pull request
 
