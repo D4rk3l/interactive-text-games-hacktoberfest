@@ -2,7 +2,7 @@
 A place to submit your own (or edit other peoples') interactive text games in any language!
 
 You can submit whatever you want as long as it's some kind of interactive text game (it needs to have user inputs).
-Feel free to edit and add on to other people's code too!
+Feel free to edit and add on to other people's code too! However, please make meaningful changes instead of just copy-pasting code. Laziness /=/ learning.
 
 ## How to Contribute
 
