@@ -21,7 +21,7 @@ Once the repository is forked, place your text adventure game inside the it and 
 
 `text-adventure-game/text-adventure-game.py` 
 
-Putting the "text-adventure-game/" in front of the name [creates a folder](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser) for it.
+Putting the "text-adventure-game/" in front of the name [creates a folder](https://camo.githubusercontent.com/29f2fd0f075716239c61d9cd7dd58c5b02ca297a/687474703a2f2f692e737461636b2e696d6775722e636f6d2f3949666d6a2e676966) for it.
 Of course, this is just an example. Name it what you want, as long as it matches the format above. It also doesn't have to be python - use any language you want!
 
 
