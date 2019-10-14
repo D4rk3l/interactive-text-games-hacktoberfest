@@ -17,7 +17,7 @@ Click the "Fork" icon in the top right to fork the repository.
 
 #### FOR ADDING YOUR OWN GAME, FOLLOW THESE INSTRUCTIONS:
 
-Make a folder in the forked repository. If you're having trouble doing this on the web browser, [here's some simple instructions.](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser)
+Fork the repository, and then make a folder in the forked repository. If you're having trouble doing this on the web browser, [here's some simple instructions.](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser)
 
 Name the folder like this, replacing spaces with '-'.
 
