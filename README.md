@@ -1,7 +1,7 @@
 # Hacktoberfest 2019 Text Adventure Games
-A place to submit your own (or edit other peoples') text adventure games in any language!
+A place to submit your own (or edit other peoples') interactive text games in any language!
 
-You can submit whatever you want as long as it's some kind of interactive text adventure game.
+You can submit whatever you want as long as it's some kind of interactive text game (it needs to have user inputs).
 Feel free to edit and add on to other people's code too!
 
 ## How to Contribute
@@ -36,11 +36,11 @@ Open the folder of whichever text game you'd like to edit.
 
 Copy and paste the game inside so that there are two copies of them and add the version number at the end of the one you're editing:
 
-`other-adventure-game-v2.py`
+`other-game-v2.py`
 
 If you're editing a version that has already been edited, add the sub-version number of that version to the end:
 
-`other-adventure-game-v2-2.py`
+`other-game-v2-2.py`
 
 Once you've edited or added what you want, move on to the next step.
 
@@ -54,6 +54,6 @@ Please explain what you want to add in the pull request title, like so:
 
 or
 
-`"Add other-adventure-game-v2"`
+`"Add other-game-v2"`
 
 ### And you're done! Your pull request should show up on the Hacktoberfest 2019 website.
