@@ -17,17 +17,12 @@ Click the "Fork" icon in the top right to fork the repository.
 
 #### FOR ADDING YOUR OWN GAME, FOLLOW THESE INSTRUCTIONS:
 
-Fork the repository, and then make a folder in the forked repository. If you're having trouble doing this on the web browser, [here's some simple instructions.](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser)
+Once the repository is forked, place your text adventure game inside the it and format the file name like this:
 
-Name the folder like this, replacing spaces with '-'.
+`text-adventure-game/text-adventure-game.py` 
 
-`text-adventure-game`
-
-Place your text adventure game inside the folder, and format the file name the same way too:
-
-`text-adventure-game.py` 
-
-This is just an example, it doesn't have to be python - use any language you want!
+Putting the "text-adventure-game/" in front of the name [creates a folder](https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser) for it.
+Of course, this is just an example. Name it what you want, as long as it matches the format above. It also doesn't have to be python - use any language you want!
 
 
 #### FOR EDITING SOMEBODY ELSE'S GAME, FOLLOW THESE INSTRUCTIONS:
