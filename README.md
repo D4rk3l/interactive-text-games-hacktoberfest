@@ -17,7 +17,7 @@ Click the "Fork" icon in the top right to fork the repository.
 
 #### FOR ADDING YOUR OWN GAME, FOLLOW THESE INSTRUCTIONS:
 
-Once the repository is forked, place your text adventure game inside the it and format the file name like this:
+Once the repository is forked, place your text adventure game inside it and format the file name like this:
 
 `text-adventure-game/text-adventure-game.py` 
 
