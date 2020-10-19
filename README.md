@@ -51,4 +51,4 @@ or
 
 `"Add other-game-v2"`
 
-### And you're done! Your pull request should show up on the Hacktoberfest 2019 website.
+### And you're done! I will verify your pull request as soon as possible, and then it should show up on the Hacktoberfest 2020 website.
