@@ -1,4 +1,4 @@
-# Hacktoberfest 2019 Interactive Text Games
+# Hacktoberfest 2020 Interactive Text Games
 A place to submit your own (or edit other peoples') interactive text games in any language!
 
 You can submit whatever you want as long as it's some kind of interactive text game (it needs to have user inputs).
