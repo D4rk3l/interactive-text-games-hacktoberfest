@@ -37,6 +37,8 @@ If you're editing a version that has already been edited, add the sub-version nu
 
 `other-game-v2-2.py`
 
+This ensures that the original author's work is preserved, and your copy is separate.
+
 Once you've edited or added what you want, move on to the next step.
 
 
