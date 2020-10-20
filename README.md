@@ -33,12 +33,14 @@ DO edit somebody's work if it:
 - Improve the efficiency of their code
 - Change variable values so that the game functions differently
 - Add entirely new code onto their game
+
 These are meaningful submissions that show some thought and effort put into them.
 
 DO NOT edit somebody's work if it:
 - Removes white spaces
 - Fixes typos
 - Makes minor changes that do not change the gameplay or efficiency of the code at all (for instance, changing variable names)
+
 These are not meaningful submissions, as they require little thought or effort, and change very little about the game.
 
 Now that you understand what does or does not count as a meaningful submission, let's move on to the next steps and start working on somebody elses game!
