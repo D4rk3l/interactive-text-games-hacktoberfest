@@ -13,9 +13,9 @@ Click the "Fork" icon in the top right to fork the repository.
 
 
 
-### Step 2: Upload/edit your text adventure game
+### Step 2: Upload/edit your interactive text game
 
-#### FOR ADDING YOUR OWN GAME, FOLLOW THESE INSTRUCTIONS:
+#### FOR ADDING YOUR OWN GAME:
 
 Once the repository is forked, place your text adventure game inside it and format the file name like this:
 
@@ -25,9 +25,25 @@ Putting the "text-adventure-game/" in front of the name [creates a folder](https
 Of course, this is just an example. Name it what you want, as long as it matches the format above. It also doesn't have to be python - use any language you want!
 
 
-#### FOR EDITING SOMEBODY ELSE'S GAME, FOLLOW THESE INSTRUCTIONS:
+#### FOR EDITING SOMEBODY ELSE'S GAME:
 
-Open the folder of whichever text game you'd like to edit.
+Before we begin, here are some simple rules about editing others' work, and why you should or shouldn't do it.
+
+DO edit somebody's work if it: 
+- Improve the efficiency of their code
+- Change variable values so that the game functions differently
+- Add entirely new code onto their game
+These are meaningful submissions that show some thought and effort put into them.
+
+DO NOT edit somebody's work if it:
+- Removes white spaces
+- Fixes typos
+- Makes minor changes that do not change the gameplay or efficiency of the code at all (for instance, changing variable names)
+These are not meaningful submissions, as they require little thought or effort, and change very little about the game.
+
+Now that you understand what does or does not count as a meaningful submission, let's move on to the next steps and start working on somebody elses game!
+
+First, open the folder of whichever text game you'd like to edit (inside of your forked repository)
 
 Copy and paste the game inside so that there are two copies of them and add the version number at the end of the one you're editing:
 
@@ -39,7 +55,7 @@ If you're editing a version that has already been edited, add the sub-version nu
 
 This ensures that the original author's work is preserved, and your copy is separate.
 
-Once you've edited or added what you want, move on to the next step.
+Once you've edited or added what you want to your copied file, move on to the next step.
 
 
 
