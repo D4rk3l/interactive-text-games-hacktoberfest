@@ -102,8 +102,11 @@ def makeEgg():
     stove = 0
     global egg
     egg = 0
+    global eggOnPan
+    eggOnPan = 0
     global options
-
+    
+    while makeEggs == 1:
     printOut("You want to make an egg. What do you need to do?\nEgg  -  Stove  -  Pan  -  Oil")
     options = input()
 
@@ -126,9 +129,11 @@ def makeEgg():
                 printOut("You don't pour the egg on the pan.")
 
             elif options.upper() == "YES" and pan == 1:
-                printOut("You pour the egg on the pan.")
-            if stove == 1:
-                printOut("It sizzles and starts to coagulate.")
+                if stove == 0:
+                    printOut("You pour the egg on the pan. Nothing happens.")
+                    eggOnPan = 1
+                elif stove == 1:
+                    printOut("You pour the egg on the pan. It sizzles and begins to cook.")
 
 
 
@@ -143,7 +148,7 @@ def makeEgg():
 
             elif randomChances < 4:
                 printOut(
-                    "You apply an excessive amount of force and slam the egg into the bowl.\nThere is now a bunch of egg shell mixed in with your egg.")
+                    "You apply an excessive amount of force and slam the egg into the bowl.\nYour egg is completely destroyed and mixed with lots of shells.\nThere is no hope of getting the shells out.")
                 time.sleep(3)
                 egg = -1
 
@@ -151,18 +156,22 @@ def makeEgg():
     elif options.upper() == "STOVE":
 
         if stove == 1:
-            printOut("You turn the stove off")
+            printOut("You turn the stove off.")
+            if eggOnPan = 1:
+                printOut("The egg ceases to cook.")
             stove = 0
 
         elif stove == 0:
-            printOut("You turn the stove on")
+            printOut("You turn the stove on.")
+            if eggOnPan = 1:
+                printOut("The egg sizzles and begins to cook.")
             stove = 1
 
 
     elif options.upper() == "PAN":
 
         if pan == 1:
-            printOut("You take the pan off of the stove.")
+            printOut("You remove the pan from the stove.")
             pan = 0
 
         elif pan == 0:
@@ -362,8 +371,6 @@ printOut("You wake up in a bed, not knowing where or who you are...\n")
 time.sleep(2.5)
 printOut("But then you remember where and who you are. \nYou're in your house, and your name is Ethan.")
 time.sleep(3)
-printOut("You're just a slow thinker.\n")
-time.sleep(2)
 printOut("You slowly raise yourself out of bed.\n")
 time.sleep(2)
 
